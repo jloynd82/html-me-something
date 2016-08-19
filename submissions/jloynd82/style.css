@@ -1,0 +1,36 @@
+body {
+background-color: lightblue;
+}
+
+h1{
+text-align: center;
+font-size: 35px;
+}
+
+h2{
+text-align: center;
+padding-top: 15px;
+font-size: 30px;
+}
+p{
+font-size: 25px;
+}
+img{
+height: 400px;
+width: 700px;
+}
+.name{
+text-align: center;
+font-size: 28px;
+}
+#left{
+
+
+width: 50%;
+float: right;
+
+padding-bottom: 300px;}
+#right{
+float: left;
+}
+
